@@ -7,7 +7,7 @@ Atualmente estou atuando como Analista Desenvolvedor Java na Compliance Soluçõ
 Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápido quanto a área, profissionalmente e/ou pessoalmente.
 
 
-![image](https://user-images.githubusercontent.com/58940851/149934197-87ad2660-c14e-4c62-81fd-3d435c2484d7.png)
+![image](https://user-images.githubusercontent.com/58940851/150009696-17ca75e6-1cca-4c54-bcec-5bf50399fe84.png)  ![image](https://user-images.githubusercontent.com/58940851/149934197-87ad2660-c14e-4c62-81fd-3d435c2484d7.png)
 
 Algumas stacks em que já trabalhei até hoje:
 
