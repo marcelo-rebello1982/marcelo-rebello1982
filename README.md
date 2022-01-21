@@ -32,7 +32,7 @@ Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápi
 <a href="https://www.facebook.com/marcelo.paulorebello" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-[![Gmail Badge](https://img.shields.io/badge/-mp.rebello.martins-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mp.rebello.martins@gmail.com)](mailto:mp.rebello.martins@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Marcelo Paulo-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mp.rebello.martins@gmail.com)](mailto:mp.rebello.martins@gmail.com)
  
 
 </div>
