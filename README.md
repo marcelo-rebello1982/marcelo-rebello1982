@@ -20,6 +20,7 @@ Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápi
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+ &nbsp; <a href="https://www.linkedin.com/in/marcelo-paulo-rebello-martins-76132933/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mp.rebello.martins@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
 
