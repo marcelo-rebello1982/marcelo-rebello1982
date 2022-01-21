@@ -26,6 +26,10 @@ Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápi
 &nbsp; <a href="mailto:mp.rebello.martins@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
 
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
+</p>
+
 
 
 
