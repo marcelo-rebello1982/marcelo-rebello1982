@@ -3,7 +3,7 @@ Sejam bem vindos ao meu perfil GitHub
 <h4> 👨🏻‍💻 Sobre </h4>
 Olá pessoal, meu nome é Marcelo Paulo e sou desenvolvedor java a mais de 10 anos.
 
-Atualmente estou atuando como Analista Desenvolvedor Java na Compliance Soluções(https://compliancesolucoes.com.br/) , Além do Software, uma empresa com uma cultura sensacional que inspira o crescimento dos seus colaboradores e clientes.
+Atualmente estou atuando como Analista Desenvolvedor Java na Compliance Soluções (https://compliancesolucoes.com.br/) , Além do Software, uma empresa com uma cultura sensacional que inspira o crescimento dos seus colaboradores e clientes.
 
 Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápido quanto a área, profissionalmente e/ou pessoalmente.
 
