@@ -12,7 +12,7 @@ Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápi
 
 ![image](https://user-images.githubusercontent.com/58940851/150009696-17ca75e6-1cca-4c54-bcec-5bf50399fe84.png)  [![image](https://user-images.githubusercontent.com/58940851/149934197-87ad2660-c14e-4c62-81fd-3d435c2484d7.png)](https://www.linkedin.com/in/marcelo-paulo-rebello-martins-76132933/)
 
-<h3>🛠 Algumas stacks em que já trabalhei até hoje:</h3>
+<h5>🛠 Algumas stacks em que já trabalhei até hoje:</h5>
 
 
 ![image](https://user-images.githubusercontent.com/58940851/150526290-071c32fb-3ad0-4637-975b-e9e12912104b.png) ![image](https://user-images.githubusercontent.com/58940851/150526376-8037dff6-42fc-4871-ba84-2d02b44d63c0.png) ![image](https://user-images.githubusercontent.com/58940851/149934400-93d60a71-7312-4ef0-9377-84c646bbee70.png) ![image](https://user-images.githubusercontent.com/58940851/149934430-0ea728f6-0dfb-4640-b1f3-364d2358c08d.png)  ![image](https://user-images.githubusercontent.com/58940851/150526479-b69a0378-d479-4dfd-add2-66b6cdbc6ab3.png)
