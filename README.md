@@ -10,7 +10,8 @@ Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápi
 
 ![image](https://user-images.githubusercontent.com/58940851/150009696-17ca75e6-1cca-4c54-bcec-5bf50399fe84.png)  ![image](https://user-images.githubusercontent.com/58940851/149934197-87ad2660-c14e-4c62-81fd-3d435c2484d7.png)
 
-Algumas stacks em que já trabalhei até hoje:
+<h1>🛠 Algumas stacks em que já trabalhei até hoje:</h1>
+
 
 ![image](https://user-images.githubusercontent.com/58940851/150526290-071c32fb-3ad0-4637-975b-e9e12912104b.png) ![image](https://user-images.githubusercontent.com/58940851/150526376-8037dff6-42fc-4871-ba84-2d02b44d63c0.png) ![image](https://user-images.githubusercontent.com/58940851/149934400-93d60a71-7312-4ef0-9377-84c646bbee70.png) ![image](https://user-images.githubusercontent.com/58940851/149934430-0ea728f6-0dfb-4640-b1f3-364d2358c08d.png)  ![image](https://user-images.githubusercontent.com/58940851/150526479-b69a0378-d479-4dfd-add2-66b6cdbc6ab3.png)
 ![image](https://user-images.githubusercontent.com/58940851/149934464-09f4f15f-d5bb-49d5-b888-b77850f5d2df.png) ![image](https://user-images.githubusercontent.com/58940851/149934493-30f8f880-6c2e-4721-8f49-88dc6433838c.png) ![image](https://user-images.githubusercontent.com/58940851/149934515-62647085-cf71-4581-8faa-ab85bf6cdefc.png) ![image](https://user-images.githubusercontent.com/58940851/149934529-bdb0c777-b3dc-4454-a3e6-596c9209d2c0.png) 
