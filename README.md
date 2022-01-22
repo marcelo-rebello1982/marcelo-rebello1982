@@ -16,7 +16,8 @@ Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápi
 
 
 ![image](https://user-images.githubusercontent.com/58940851/150526290-071c32fb-3ad0-4637-975b-e9e12912104b.png) ![image](https://user-images.githubusercontent.com/58940851/150582947-1855935b-d321-417b-8f80-d660e3ad1c7f.png)
- ![image](https://user-images.githubusercontent.com/58940851/150526376-8037dff6-42fc-4871-ba84-2d02b44d63c0.png) ![image](https://user-images.githubusercontent.com/58940851/150615769-9e28bcc1-0e3e-4307-9ab4-a1623c2a5be9.png)
+ ![image](https://user-images.githubusercontent.com/58940851/150526376-8037dff6-42fc-4871-ba84-2d02b44d63c0.png) ![image](https://user-images.githubusercontent.com/58940851/150615769-9e28bcc1-0e3e-4307-9ab4-a1623c2a5be9.png) ![image](https://user-images.githubusercontent.com/58940851/150616871-030a349b-4069-4a03-8e1c-ad30ef47aa80.png)
+
  ![image](https://user-images.githubusercontent.com/58940851/149934400-93d60a71-7312-4ef0-9377-84c646bbee70.png) ![image](https://user-images.githubusercontent.com/58940851/149934430-0ea728f6-0dfb-4640-b1f3-364d2358c08d.png)  ![image](https://user-images.githubusercontent.com/58940851/150616830-63b19eb6-10a3-4a85-ad6b-348dbb3c5bdb.png)
  ![image](https://user-images.githubusercontent.com/58940851/150526479-b69a0378-d479-4dfd-add2-66b6cdbc6ab3.png)
 ![image](https://user-images.githubusercontent.com/58940851/149934464-09f4f15f-d5bb-49d5-b888-b77850f5d2df.png) ![image](https://user-images.githubusercontent.com/58940851/149934493-30f8f880-6c2e-4721-8f49-88dc6433838c.png) ![image](https://user-images.githubusercontent.com/58940851/149934515-62647085-cf71-4581-8faa-ab85bf6cdefc.png) ![image](https://user-images.githubusercontent.com/58940851/149934529-bdb0c777-b3dc-4454-a3e6-596c9209d2c0.png) 
