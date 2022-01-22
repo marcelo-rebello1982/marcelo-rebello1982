@@ -31,7 +31,8 @@ Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápi
 <a href="https://www.facebook.com/marcelo.paulorebello" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mp.rebello.martins@gmail.com)](mailto:mp.rebello.martins@gmail.com) ![image](https://user-images.githubusercontent.com/58940851/150575825-064424c0-95ea-497c-86e4-b0f1adc94220.png) <a href="https://www.youtube.com/channel/UCcfut6WLD4Q-zyalZ0Nr-qQ" target="_blank">![image](https://user-images.githubusercontent.com/58940851/150581225-865a052d-44be-4d5f-ac1c-2fd3ece1d6ca.png)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mp.rebello.martins@gmail.com)](mailto:mp.rebello.martins@gmail.com) ![image](https://user-images.githubusercontent.com/58940851/150575825-064424c0-95ea-497c-86e4-b0f1adc94220.png) <a href="https://www.youtube.com/channel/UCcfut6WLD4Q-zyalZ0Nr-qQ" target="_blank">![image](https://user-images.githubusercontent.com/58940851/150581225-865a052d-44be-4d5f-ac1c-2fd3ece1d6ca.png) ![image](https://user-images.githubusercontent.com/58940851/150617302-e5f89acc-d872-4e1f-b33e-57e91d57dc70.png)
+
 
 
  
